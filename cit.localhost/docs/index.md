@@ -19,9 +19,9 @@ For [Github](https://github.com/nammahari/cit-hackers.git)
 
 ## FOSS United & Chennai Chapter
 
-- FOSS United : [FOSS United Web ](fossunited.org)
-- FORUM FOSS United : [ Forum ] (forum.fossunited.org)
-- FOSS United Chennai : ( Tele Group )[t.me/fossunitedchennai) / [ FOSS United Chennai Web ](fossunited.org/c/chennai)
+- FOSS United : [FOSS United Web ](https://fossunited.org)
+- FORUM FOSS United : [ Forum ] (https://forum.fossunited.org)
+- FOSS United Chennai : [Tele Group](https://t.me/fossunitedchennai) /  [FOSS United Chennai Web](https://fossunited.org/c/chennai)
 - [Tamilnadu.tec](tamilnadu.tech) / [Podu.pics](podu.pics)
 
 Best, 
